@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+gem 'github-pages'
+gem 'connection_pool', '2.5.0'
+gem 'tzinfo-data'
+
 group :jekyll_plugins do
   gem 'jekyll'
   gem 'jekyll-feed'
@@ -9,5 +13,7 @@ group :jekyll_plugins do
   gem 'webrick', '~> 1.8'
 end
 
-gem 'github-pages'
-gem 'connection_pool', '2.5.0'
+# Include timezone data for Windows
+platforms :mingw, :x64_mingw, :mswin do
+  gem 'tzinfo-data'
+end
