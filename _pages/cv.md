@@ -17,28 +17,34 @@ Education
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Fall 2024: International Research Intern
+  * National Chung Cheng University
+  * Supervisor: Dr. Pao-Ann Hsiung
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Fall 2025: Data Engineer Intern
+  * Mactores
 
-* Summer 2015: Research Assistant
+<!-- * Summer 2015: Research Assistant
   * GitHub University
   * Duties included: Tagging issues
-  * Supervisor: Professor Git
+  * Supervisor: Professor Git -->
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
+* Languages & Libraries
+  * Python 
+  * PySpark 
+  * SQL 
+  * Pandas 
+  * NumPy 
+  * Scikit-learn 
+  
+* Databases & Management Tools
+  * PostgreSQL 
+  * AWS Redshift 
+  * Snowflake 
+  * DBeaver
+  * pgAdmin
 * Skill 3
 
 Publications
