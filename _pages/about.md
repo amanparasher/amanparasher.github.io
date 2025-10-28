@@ -116,7 +116,7 @@ My journey includes:
         </li>
         <li style="margin-bottom: 8px;">
             <i class="fas fa-file-alt" aria-hidden="true"></i> 
-            <a href="/cv/" style="font-weight: bold; text-decoration: none;">
+            <a href="/files/Aman_Parasher_CV.pdf/" style="font-weight: bold; text-decoration: none;">
                 Download Full CV / Resume &rarr;
             </a>
         </li>
