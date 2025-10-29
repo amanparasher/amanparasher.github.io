@@ -6,16 +6,28 @@
 
 <link href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}" type="application/atom+xml" rel="alternate" title="{{ site.title }} Feed">
 
-<!-- http://t.co/dKP3o1e -->
 <meta name="HandheldFriendly" content="True">
 <meta name="MobileOptimized" content="320">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
 <script>
-  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
+  document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
 </script>
 
-<!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
 
 <meta http-equiv="cleartype" content="on">
+
+<script>
+  document.addEventListener("DOMContentLoaded", function() {
+    // Selects all <a> tags whose href ends with .pdf (case-insensitive)
+    const pdfLinks = document.querySelectorAll('a[href$=".pdf" i]');
+
+    pdfLinks.forEach(link => {
+      // Add the target="_blank" attribute
+      link.setAttribute('target', '_blank');
+      // Add the recommended security attributes
+      link.setAttribute('rel', 'noopener noreferrer');
+    });
+  });
+</script>

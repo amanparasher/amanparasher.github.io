@@ -35,10 +35,10 @@ Please excuse any dead links or 404 errors; this website is a living document an
 
 
 <!-- 2nd one -->
-<!-- 
-## 👋 Hello! I'm Aman Parasher
 
-**Data Engineer** $\mid$ **Databricks Ecosystem** $\mid$ **Cloud & AI Enthusiast**
+## 👋 Hello!
+
+**Data Engineer** | **Databricks Ecosystem** | **Cloud & AI Enthusiast**
 <br>
 <i class="fas fa-database" aria-hidden="true"></i> &nbsp; Data Pipelines &nbsp;&nbsp;
 <i class="fab fa-python" aria-hidden="true"></i> &nbsp; Python/SQL &nbsp;&nbsp;
@@ -61,19 +61,18 @@ My journey was built on intensive, hands-on learning during my B.Tech at SRMIST 
 
 Navigate the portfolio using these quick links:
 
-* **[Projects](/portfolio/) &rarr;**: See major work, including the Uber Surge Pricing Pipeline and HFT Backtesting Engine on Databricks.
-* **[Experience](/work-experience/) &rarr;**: Review formal internships, research, and my unique background in tech recruiting.
-* **[CV/Resume](/cv/) &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
+* **[Projects & Experience](/portfolio/) &rarr;**: See major work (including the Uber Surge Pricing Pipeline and HFT Backtesting Engine on Databricks), plus review my formal internships, research, and unique background in tech recruiting.
+* **[CV/Resume](/files/Aman_Parasher_CV.pdf) &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
 
 ---
 
- -->
+
 
 
 
 
 <!-- 3rd one -->
-
+<!-- 
 ## Aman Parasher — Data Engineer
 
 Hello! I'm Aman Parasher.
@@ -105,7 +104,7 @@ My journey includes:
         <li style="margin-bottom: 8px;">
             <i class="fas fa-code-branch" aria-hidden="true"></i> 
             <a href="/portfolio/" style="font-weight: bold; text-decoration: none;">
-                View Major Projects (Uber, HFT Engine) &rarr;
+                View Major Projects &rarr;
             </a>
         </li>
         <li style="margin-bottom: 8px;">
@@ -122,4 +121,4 @@ My journey includes:
         </li>
     </ul>
 </div>
----
+--- -->

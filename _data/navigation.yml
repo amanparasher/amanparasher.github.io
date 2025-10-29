@@ -20,8 +20,8 @@ main:
   - title: "Projects"
     url: /portfolio/
         
-  - title: "Work Experience"
-    url: /year-archive/
+  # - title: "Work Experience"
+  #   url: /year-archive/
     
   - title: "CV"
     url: /files/Aman_Parasher_CV.pdf
