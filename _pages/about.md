@@ -44,7 +44,7 @@ Please excuse any dead links or 404 errors; this website is a living document an
 <i class="fas fa-certificate" aria-hidden="true"></i> &nbsp; Databricks Certified
 <br> -->
 
----
+
 
 ## 💡 My Focus: Real-World Value
 
@@ -63,7 +63,7 @@ My journey was built on intensive, hands-on learning during my B.Tech at SRMIST 
 Navigate the portfolio using these quick links:
 
 * **[Projects & Experience](/portfolio/) &rarr;**: See major work (including the Uber Surge Pricing Pipeline and HFT Backtesting Engine on Databricks), plus review my formal internships, research, and unique background in tech recruiting.
-* **[CV/Resume](/files/Aman_Parasher_CV.pdf) &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
+* **[CV/Resume](/files/Aman_Parasher_CV.pdf){:target="_blank"} &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
 
 ---
 
