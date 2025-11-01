@@ -28,7 +28,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Data Engineer | AI Enthusiast"
   location         : "Delhi, India"
-  employer         : "Mactores"
+  employer         : # Mactores
   uri              : "https://mactores.com/"
   email            : "amanparasher.ai@gmail.com" 
 
