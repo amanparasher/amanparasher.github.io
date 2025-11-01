@@ -62,7 +62,7 @@ My journey was built on intensive, hands-on learning during my B.Tech at SRMIST 
 Navigate the portfolio using these quick links:
 
 * **[Projects & Experience](/portfolio/) &rarr;**: See major work (including the Uber Surge Pricing Pipeline and HFT Backtesting Engine on Databricks), plus review my formal internships, research, and unique background in tech recruiting.
-* **[CV/Resume](/files/Aman_Parasher_CV.pdf) &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
+* **[CV/Resume](/cv-pdf-redirect/) &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
 
 ---
 
