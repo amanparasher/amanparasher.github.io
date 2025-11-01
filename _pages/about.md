@@ -37,12 +37,12 @@ Please excuse any dead links or 404 errors; this website is a living document an
 <!-- 2nd one -->
 
 ## 👋 Hello! I'm Aman Parasher
-
+<!-- 
 <br>
 <i class="fas fa-database" aria-hidden="true"></i> &nbsp; Data Pipelines &nbsp;&nbsp;
 <i class="fab fa-python" aria-hidden="true"></i> &nbsp; Python/SQL &nbsp;&nbsp;
 <i class="fas fa-certificate" aria-hidden="true"></i> &nbsp; Databricks Certified
-<br>
+<br> -->
 
 ---
 
