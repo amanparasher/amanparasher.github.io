@@ -43,14 +43,9 @@ Please excuse any dead links or 404 errors; this website is a living document an
 <i class="fab fa-python" aria-hidden="true"></i> &nbsp; Python/SQL &nbsp;&nbsp;
 <i class="fas fa-certificate" aria-hidden="true"></i> &nbsp; Databricks Certified
 <br> -->
-
-
-
 ## 💡 My Focus: Real-World Value
 
 Welcome to my portfolio. I'm a **B.Tech graduate** and a **Data Engineer Intern at Mactores**, where I build and manage real-world data pipelines. I am deeply focused on the Databricks ecosystem and am currently pursuing the Data Engineer Professional certification.
-
-My journey to this point was built on a foundation of intensive, hands-on learning during my B.Tech at SRMIST (2022-2025). This included a **3-month AI research internship in Taiwan** (specializing in Deep Learning and Computer Vision).
 
 This portfolio is a showcase of my philosophy: I build **end-to-end projects** that solve real, recognizable business problems.
 
