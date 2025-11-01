@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Aman Parasher - Data Engineer"
+# title: "Aman Parasher - Data Engineer"
 author_profile: true
 redirect_from: 
   - /about/
@@ -36,9 +36,8 @@ Please excuse any dead links or 404 errors; this website is a living document an
 
 <!-- 2nd one -->
 
-## 👋 Hello!
+## 👋 Hello! I'm Aman Parasher
 
-**Data Engineer** | **Databricks Ecosystem** | **Cloud & AI Enthusiast**
 <br>
 <i class="fas fa-database" aria-hidden="true"></i> &nbsp; Data Pipelines &nbsp;&nbsp;
 <i class="fab fa-python" aria-hidden="true"></i> &nbsp; Python/SQL &nbsp;&nbsp;
@@ -50,6 +49,8 @@ Please excuse any dead links or 404 errors; this website is a living document an
 ## 💡 My Focus: Real-World Value
 
 Welcome to my portfolio. I'm a **B.Tech graduate** and a **Data Engineer Intern at Mactores**, where I build and manage real-world data pipelines. I am deeply focused on the Databricks ecosystem and am currently pursuing the Data Engineer Professional certification.
+
+My journey to this point was built on a foundation of intensive, hands-on learning during my B.Tech at SRMIST (2022-2025). This included a **3-month AI research internship in Taiwan** (specializing in Deep Learning and Computer Vision).
 
 This portfolio is a showcase of my philosophy: I build **end-to-end projects** that solve real, recognizable business problems.
 
