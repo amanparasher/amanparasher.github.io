@@ -2,12 +2,11 @@
 layout: default
 title: "CV Redirect"
 permalink: /cv-pdf-redirect/
-# Use the theme's built-in redirect feature.
-# NOTE: The "target: _blank" here relies on your specific theme (like Minimal Mistakes)
-#       having code to honor this attribute for redirects.
-redirect_to: 
-  - url: /files/Aman_Parasher_CV.pdf
-    target: _blank
 ---
 
-<p>If my CV did not open automatically, please click <a href="/files/Aman_Parasher_CV.pdf" target="_blank">here</a>.</p>
+<script type="text/javascript">
+  window.open('/files/Aman_Parasher_CV.pdf', '_blank');
+  window.history.back();
+</script>
+
+<p>Opening CV in a new tab... If it didn't open automatically, please <a href="/files/Aman_Parasher_CV.pdf" target="_blank">click here</a>.</p>
