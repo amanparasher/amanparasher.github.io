@@ -48,7 +48,7 @@ As a **Databricks Certified Data Engineer Associate**, I work extensively with *
 
 ## Background
 
-My technical journey started with a B.Tech in Computational Intelligence at SRM University (2021-2025), where I built strong foundations in computer science and AI systems.
+My technical journey started with a B.Tech in Artificial Intelligence at SRM University (2021-2025), where I built strong foundations in computer science and AI systems.
 
 Key experiences include:
 
@@ -59,7 +59,7 @@ Key experiences include:
 
 ## Explore My Work
 
-### Projects & Experience $\rightarrow$
+### Projects & Experience 
 
 See my technical implementations including:
 
