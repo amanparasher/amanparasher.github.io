@@ -36,29 +36,43 @@ Please excuse any dead links or 404 errors; this website is a living document an
 
 <!-- 2nd one -->
 
-## 👋 Hello! I'm Aman Parasher
-<!-- 
-<br>
-<i class="fas fa-database" aria-hidden="true"></i> &nbsp; Data Pipelines &nbsp;&nbsp;
-<i class="fab fa-python" aria-hidden="true"></i> &nbsp; Python/SQL &nbsp;&nbsp;
-<i class="fas fa-certificate" aria-hidden="true"></i> &nbsp; Databricks Certified
-<br> -->
-## 💡 My Focus: Real-World Value
+## # Hello! I'm Aman Parasher
 
-Welcome to my portfolio. I'm a **B.Tech graduate** and a **Data Engineer Intern at Mactores**, where I build and manage real-world data pipelines. I am deeply focused on the Databricks ecosystem and am currently pursuing the Data Engineer Professional certification.
+## Engineering Scalable Data Infrastructure
 
-This portfolio is a showcase of my philosophy: I build **end-to-end projects** that solve real, recognizable business problems.
+I am a **B.Tech graduate** in Computational Intelligence from SRM University, Chennai, and currently a **Data Engineer Intern at Mactores**, where I build production data pipelines that process real-time and batch workloads at scale.
 
-## 🚀 The Foundation: Engineering & Research
+As a **Databricks Certified Data Engineer Associate**, I work extensively with **Apache Spark, Delta Lake, and the Databricks Lakehouse platform**. I am currently pursuing the Professional certification to advance my expertise in distributed data systems.
 
-My journey was built on intensive, hands-on learning during my B.Tech at SRMIST (2022-2025). This included a **3-month AI research internship in Taiwan** and practical virtual internships with industry leaders like KPMG and TATA.
+---
 
-### Primary Pages
+## Background
 
-Navigate the portfolio using these quick links:
+My technical journey started with a B.Tech in Computational Intelligence at SRM University (2021-2025), where I built strong foundations in computer science and AI systems.
 
-* **[Projects & Experience](/portfolio/) &rarr;**: See major work (including the Uber Surge Pricing Pipeline and HFT Backtesting Engine on Databricks), plus review my formal internships, research, and unique background in tech recruiting.
-* **[CV/Resume](/files/Aman_Parasher_CV.pdf){:target="_blank"} &rarr;**: A quick, comprehensive review of my whole portfolio and tech journey.
+Key experiences include:
+
+* **AI Research Intern** at National Chung Cheng University, Taiwan (Taiwan India Joint Research Centre on AI)
+* **Virtual Internships** with KPMG and Tata to gain hands-on experience with enterprise data workflow
+
+---
+
+## Explore My Work
+
+### Projects & Experience $\rightarrow$
+
+See my technical implementations including:
+
+* **Uber Surge Pricing Pipeline Project:** real-time streaming using Kafka and Spark
+* **HFT Backtesting Engine:** low-latency quantitative analysis on Databricks
+
+**[View Projects and Experience Here](/portfolio/)**
+
+### CV/Resume $\rightarrow$
+
+Complete overview of my technical stack, certifications, and professional timeline
+
+**[View/Download CV (PDF)](/files/Aman_Parasher_CV.pdf){:target="_blank"}**
 
 ---
 
