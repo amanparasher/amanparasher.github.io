@@ -40,7 +40,7 @@ Please excuse any dead links or 404 errors; this website is a living document an
 
 ## Engineering Scalable Data Infrastructure
 
-I am a **B.Tech graduate** in Computational Intelligence from SRM University, Chennai, and currently a **Data Engineer Intern at Mactores**, where I build production data pipelines that process real-time and batch workloads at scale.
+I am a **B.Tech graduate** in Artificial Intelligence from SRM University, Chennai, and currently a **Data Engineer Intern at Mactores**, where I build production data pipelines that process real-time and batch workloads at scale.
 
 As a **Databricks Certified Data Engineer Associate**, I work extensively with **Apache Spark, Delta Lake, and the Databricks Lakehouse platform**. I am currently pursuing the Professional certification to advance my expertise in distributed data systems.
 
