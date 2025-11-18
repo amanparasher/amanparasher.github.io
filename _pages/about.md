@@ -68,7 +68,7 @@ See my technical implementations including:
 
 **[View Projects and Experience Here](/portfolio/)**
 
-### CV/Resume $\rightarrow$
+### CV/Resume 
 
 Complete overview of my technical stack, certifications, and professional timeline
 
