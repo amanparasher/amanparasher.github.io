@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Aman Parasher.
+<!-- Hello! I'm Aman Parasher.
 
 Welcome to my portfolio. I'm a **B.Tech graduate** and a **Data Engineer Intern at Mactores**, where I build and manage real-world data pipelines. I am deeply focused on the **Databricks ecosystem** and am currently pursuing the Databricks Data Engineer Professional certification, having already cleared the Associate level.
 
@@ -28,7 +28,7 @@ To learn about my formal internships and research, you can visit my **[Experienc
 To have a quick review of my whole portfolio, please see my **[CV/Resume](/cv/)**.
 
 ---
-Please excuse any dead links or 404 errors; this website is a living document and constantly under construction as I build new things!
+Please excuse any dead links or 404 errors; this website is a living document and constantly under construction as I build new things! -->
 
 
 
@@ -61,10 +61,7 @@ Key experiences include:
 
 ### Projects & Experience 
 
-See my technical implementations including:
-
-* **Uber Surge Pricing Pipeline Project:** real-time streaming using Kafka and Spark
-* **HFT Backtesting Engine:** low-latency quantitative analysis on Databricks
+See my technical implementations:
 
 **[View Projects and Experience Here](/portfolio/)**
 
